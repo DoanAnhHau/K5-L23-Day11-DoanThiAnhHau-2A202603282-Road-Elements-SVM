@@ -1,6 +1,6 @@
 # Phiếu QC 1 — Road v1.0
 
-Lô được kiểm (học viên): **Đoàn Thị Ánh Hậu - 2A202603282**  Người kiểm (tự kiểm): **Phạm Thị Lương - 2A202603302**  
+Lô được kiểm (học viên): **Đoàn Thị Ánh Hậu - 2A202603282**  Người kiểm (tự kiểm): **Nguyễn Văn Thọ - 2A202603299**  
 Ngày: **20/11/2026**  Phiên bản guideline: **Road v1.0**  
 File được kiểm: **`D:\Lab\DAY11\K5-L23-Day11-DoanThiAnhHau-2A202603282-Road-Elements-SVM\DoanThiAnhHau-manifest.json`**  
 Số ảnh kiểm: **6 (A01–A06)** (+ **0** ảnh thêm)  Số nhãn trong phạm vi: **75 (51 shape + 24 tag)**
