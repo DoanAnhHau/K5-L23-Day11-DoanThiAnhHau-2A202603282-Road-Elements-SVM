@@ -6,4 +6,5 @@ coach_gt/
 submissions/
 out/
 *.zip
+!data1/data1_A01-A06.zip
 .env
